@@ -37,12 +37,3 @@ TMDB API
 Content-Based Filtering
 
 Cosine Similarity
-
-# Recommendation Systems
-
-🚀 How to Run the Project
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Streamlit app
-streamlit run app.py
