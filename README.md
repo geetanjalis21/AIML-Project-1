@@ -4,21 +4,23 @@ CineMatch AI
 CineMatch AI is an AI-powered movie recommendation system built using Machine Learning and Streamlit.
 It recommends movies based on similarity, genres, and user preferences with a modern OTT-style UI.
 
-Features
+#Features
 AI movie recommendations
 Genre filtering
 Trending movies
 TMDB API integration
 Movie posters & ratings
 Responsive cinematic UI
-🛠 Tech Stack
+
+#Tech Stack
 Python
 Streamlit
 Pandas
 Scikit-learn
 NumPy
 TMDB API
-ML Concepts
+
+#ML Concepts
 Content-Based Filtering
 Cosine Similarity
 Recommendation System
@@ -29,6 +31,5 @@ API
 
 TMDB API
 
-Author
-
+#Author
 Geetanjali Shetty
