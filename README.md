@@ -1,4 +1,4 @@
-CineMatch AI
+# CineMatch AI
 
 CineMatch AI is an AI-powered movie recommendation system built using Machine Learning and Streamlit.
 It suggests movies based on content similarity, genres, and user preferences, with a modern OTT-style UI.
